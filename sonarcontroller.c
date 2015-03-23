@@ -2,6 +2,9 @@
 // Code By: Steven Lawler (Steven.Lawler777@gmail.com)
 // Date: 2014/01/02
 // Version: 1
+//You can watch a video of it here: https://www.youtube.com/watch?v=MpKkf1fdT5U
+
+//This doesn't use a bitshift register on the display, so it may flicker.
 
 // Segment labelling:
 //        A
